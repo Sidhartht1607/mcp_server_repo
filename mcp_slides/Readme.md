@@ -28,7 +28,7 @@ This MCP (Model Context Protocol) server enables AI agents to interact with Goog
 ### 1. 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mcp-servers-repo.git
+git clone https://github.com/Sidhartht1607/mcp-servers-repo.git
 cd mcp-servers-repo/slides_mcp
 
 
