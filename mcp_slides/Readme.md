@@ -1,4 +1,4 @@
-Sure! Here’s the complete README.md content in Markdown format:
+
 
 # 📽️ Google Slides MCP Server
 
